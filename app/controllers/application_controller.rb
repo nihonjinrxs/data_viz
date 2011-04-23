@@ -1,4 +1,4 @@
-require 'googlevisualr'
+# require 'googlevisualr'
 
 class ApplicationController < ActionController::Base
   protect_from_forgery
